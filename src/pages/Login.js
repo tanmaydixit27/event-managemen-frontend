@@ -48,7 +48,7 @@ const Login = () => {
       {/* Registration Link */}
       <Typography variant="body2" className="register-link">
         Don't have an account?{" "}
-        <Link href="/register" underline="hover">
+        <Link href="/#/register" underline="hover">
           Register here
         </Link>
       </Typography>
